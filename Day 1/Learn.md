@@ -19,9 +19,18 @@ yeild - yet to perform
 
 
 # Operators:
-1. Arathmetical Operator (+, -, *, /, //, %)
-2. Logical Operator (AND, OR, NOT)
-3. Relational Operator (<, >, <=, >=)
-4. Bitwise operator ( $, |)
-5. Membership Operator (in)
-6. Identifier Operator (is)
+1. Arithmetic operators (+, -, *, /, %, //, **)
+2. Assignment operators (=, +=, -=, *=, /=, %=, //=, **=, &=, |=, ^=, >>=, <<=	)
+3. Comparison operators (==, !=, <, >, <=, >=)
+4. Logical operators (AND, OR, NOT)
+5. Identity operators (IS, IS NOT)
+6. Membership operators (IN, IN NOT)
+7. Bitwise operators ()
+
+# Identifiers:
+1. Seqcquences of letter, digits and underscore
+2. Can be any length
+3. Starts with only letter(a-z or A-Z)
+4. Started with underscore(_)
+5. cannot start with digit
+
