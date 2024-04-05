@@ -34,3 +34,6 @@ yeild - yet to perform
 4. Started with underscore(_)
 5. cannot start with digit
 
+# Sequences in Python
+1. List []
+2. Tuples
