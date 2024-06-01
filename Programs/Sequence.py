@@ -1,4 +1,4 @@
-# Sir code
+# First way
 """ input_n=3
 input_list=list(map(int,input().split(",")))[:input_n]
 print(input_list)
@@ -19,7 +19,7 @@ else:
         mul*=i
     print(mul) """
     
-# Jayu code
+# Second way
 
 listo = [3,7,2 ]
 value = 1
@@ -33,12 +33,12 @@ if(7 in listo):
         print("-1")
     else:
         for i in listo[s1+1:]:
-            val *= i;
+            val *= i
         print("my Ans is ",  val)
 
 elif(7 not in listo):
     for i in listo:
-        val *= i;
+        val *= i
     print("my Ans is ",  val)
 
 
