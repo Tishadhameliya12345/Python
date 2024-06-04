@@ -56,3 +56,36 @@ We use array_split() for splitting arrays, we pass it the array we want to split
 
 # Search Sorted
 There is a method called searchsorted() which performs a binary search in the array, and returns the index where the specified value would be inserted to maintain the search order.
+
+# Pandas
+
+Pandas is a Python library used for working with data sets.
+It has functions for analyzing, cleaning, exploring, and manipulating data.
+The name "Pandas" has a reference to both "Panel Data", and "Python Data Analysis" and was created by Wes McKinney in 2008.
+
+# Why Use Pandas?
+
+Pandas allow us to analyze big data and make conclusions based on statistical theories.
+Pandas can clean messy data sets, and make them readable and relevant.
+Relevant data is very important in data science.
+
+# What Can Pandas Do?
+
+Pandas give you answers about the data. Like:
+Is there a correlation between two or more columns?
+What is the average value?
+Max value?
+Min value?
+Pandas are also able to delete rows that are not relevant or contain wrong values, like empty or NULL values. This is called cleaning the data.
+
+# Installation of Pandas
+
+C:\Users\Your Name>pip install pandas
+
+# What is a Series?
+A Pandas Series is like a column in a table.
+It is a one-dimensional array holding data of any type.
+
+# DataFrames
+Data sets in Pandas are usually multi-dimensional tables, called DataFrames.
+Series is like a column, a DataFrame is the whole table.
